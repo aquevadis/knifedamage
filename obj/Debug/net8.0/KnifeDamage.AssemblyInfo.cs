@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KnifeDamage")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ca93ee1e04ca731312ae906cddcea25e75d681b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("KnifeDamage")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KnifeDamage")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

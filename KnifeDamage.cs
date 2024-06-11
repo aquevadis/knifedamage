@@ -41,11 +41,11 @@ public class KnifeDamage : BasePlugin
             
             SendMessageToSpecificChat(msg: $"======> BitsDamageType: {(int)info.BitsDamageType}", print: PrintTo.ChatAll);
 
-            // if (info.BitsDamageType is not 256) return HookResult.Continue;
-            // info.Damage = 0f;
-            //return HookResult.Changed;
+            if (info.BitsDamageType is not 4) return HookResult.Continue;
+            info.Damage = 0f;
+            
+            return HookResult.Changed;
 
-            return HookResult.Continue;
         }, HookMode.Pre);
         
         Console.WriteLine("Hooked Take Damage Func! \n!");
