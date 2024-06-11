@@ -1,0 +1,12 @@
+D:\bg-koka-hub-plugins\knifedamage\bin\Debug\net8.0\KnifeDamage.deps.json
+D:\bg-koka-hub-plugins\knifedamage\bin\Debug\net8.0\KnifeDamage.dll
+D:\bg-koka-hub-plugins\knifedamage\bin\Debug\net8.0\KnifeDamage.pdb
+D:\bg-koka-hub-plugins\knifedamage\obj\Debug\net8.0\KnifeDamage.csproj.AssemblyReference.cache
+D:\bg-koka-hub-plugins\knifedamage\obj\Debug\net8.0\KnifeDamage.GeneratedMSBuildEditorConfig.editorconfig
+D:\bg-koka-hub-plugins\knifedamage\obj\Debug\net8.0\KnifeDamage.AssemblyInfoInputs.cache
+D:\bg-koka-hub-plugins\knifedamage\obj\Debug\net8.0\KnifeDamage.AssemblyInfo.cs
+D:\bg-koka-hub-plugins\knifedamage\obj\Debug\net8.0\KnifeDamage.csproj.CoreCompileInputs.cache
+D:\bg-koka-hub-plugins\knifedamage\obj\Debug\net8.0\KnifeDamage.dll
+D:\bg-koka-hub-plugins\knifedamage\obj\Debug\net8.0\refint\KnifeDamage.dll
+D:\bg-koka-hub-plugins\knifedamage\obj\Debug\net8.0\KnifeDamage.pdb
+D:\bg-koka-hub-plugins\knifedamage\obj\Debug\net8.0\ref\KnifeDamage.dll

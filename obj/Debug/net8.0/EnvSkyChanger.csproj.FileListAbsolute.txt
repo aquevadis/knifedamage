@@ -1,0 +1,12 @@
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\bin\Debug\net8.0\EnvSkyChanger.deps.json
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\bin\Debug\net8.0\EnvSkyChanger.dll
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\bin\Debug\net8.0\EnvSkyChanger.pdb
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\obj\Debug\net8.0\EnvSkyChanger.csproj.AssemblyReference.cache
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\obj\Debug\net8.0\EnvSkyChanger.GeneratedMSBuildEditorConfig.editorconfig
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\obj\Debug\net8.0\EnvSkyChanger.AssemblyInfoInputs.cache
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\obj\Debug\net8.0\EnvSkyChanger.AssemblyInfo.cs
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\obj\Debug\net8.0\EnvSkyChanger.csproj.CoreCompileInputs.cache
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\obj\Debug\net8.0\EnvSkyChanger.dll
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\obj\Debug\net8.0\refint\EnvSkyChanger.dll
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\obj\Debug\net8.0\EnvSkyChanger.pdb
+D:\bg-koka-hub-plugins\bg-koka-env-sky-changer\EnvSkyChanger\obj\Debug\net8.0\ref\EnvSkyChanger.dll

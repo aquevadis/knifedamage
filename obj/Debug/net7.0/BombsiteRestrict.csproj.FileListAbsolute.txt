@@ -1,0 +1,12 @@
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\bin\Debug\net7.0\BombsiteRestrict.deps.json
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\bin\Debug\net7.0\BombsiteRestrict.dll
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\bin\Debug\net7.0\BombsiteRestrict.pdb
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\obj\Debug\net7.0\BombsiteRestrict.csproj.AssemblyReference.cache
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\obj\Debug\net7.0\BombsiteRestrict.GeneratedMSBuildEditorConfig.editorconfig
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\obj\Debug\net7.0\BombsiteRestrict.AssemblyInfoInputs.cache
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\obj\Debug\net7.0\BombsiteRestrict.AssemblyInfo.cs
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\obj\Debug\net7.0\BombsiteRestrict.csproj.CoreCompileInputs.cache
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\obj\Debug\net7.0\BombsiteRestrict.dll
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\obj\Debug\net7.0\refint\BombsiteRestrict.dll
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\obj\Debug\net7.0\BombsiteRestrict.pdb
+D:\bg-koka-hub-plugins\bg-koka-cs2-bomb-side-restrictor\obj\Debug\net7.0\ref\BombsiteRestrict.dll
