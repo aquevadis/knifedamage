@@ -12,12 +12,12 @@ using System.Text.Json.Serialization;
 using CounterStrikeSharp.API.Modules.Memory.DynamicFunctions;
 
 
-namespace EnvSkyChanger;
+namespace KnifeDamage;
 
 [MinimumApiVersion(142)]
 
 
-public class EnvSkyChanger : BasePlugin
+public class KnifeDamage : BasePlugin
 {
     public override string ModuleName => "Knife Damage";
     public override string ModuleAuthor => "n/a";
