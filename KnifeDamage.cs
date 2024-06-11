@@ -20,7 +20,7 @@ namespace EnvSkyChanger;
 public class EnvSkyChanger : BasePlugin
 {
     public override string ModuleName => "Knife Damage";
-    public override string ModuleAuthor => "AquaVadis";
+    public override string ModuleAuthor => "n/a";
     public override string ModuleVersion => "0.0.1";
 
     private enum PrintTo
